@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f608f2e-9579-4f28-a811-65e513cf03a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/libs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/libs/sbc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/static/css/navbartemp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/static/js/navbartemp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/static/less/navbartemp.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/templates/navbartemp_navbar.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/octoprint_navbartemp/templates/navbartemp_settings.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2h9YFsXX3HswrGQqMcyHSXnKWWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f608f2e-9579-4f28-a811-65e513cf03a5" name="Changes" comment="" />
+      <created>1717007659882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717007659882</updated>
+    </task>
+    <servers />
+  </component>
+</project>
